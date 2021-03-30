@@ -36,12 +36,4 @@ public class Rectangle {
                this.y == rectangle.y;
     }
 
-
-    //    // сравнение объектов
-//    boolean theSamePerson(Person person) {
-//        return this.firstName.equals(person.firstName) &&
-//                this.lastName.equals(person.lastName) &&
-//                this.age == person.age;
-//    }
-
 }
